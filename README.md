@@ -1,6 +1,6 @@
-# SQL Practice (Jan–Mar) 🧠📊
+# SQL Practice (Jan) 🧠📊
 
-This repository contains my **January–March SQL practice** work based on the SQL course material prescribed for those months. It’s a hands-on set of scripts and queries used to reinforce core SQL concepts through a small, realistic dataset. 🗄️✅
+This repository contains my **January SQL practice** work based on the SQL course material prescribed for those months. It’s a hands-on set of scripts and queries used to reinforce core SQL concepts through a small, realistic dataset. 🗄️✅
 
 ## What’s in this repo 📦
 
@@ -10,7 +10,7 @@ This repository contains my **January–March SQL practice** work based on the S
 - **Data seeding scripts 🌱**  
   Insert scripts to generate sample data (customers, products, orders, order items, payments, and shipments) to support repeatable analysis and querying. 🔁🧪
 
-- **Practice queries (Jan–Mar) 🧩**  
+- **Practice queries (Jan) 🧩**  
   A set of queries used to practice and demonstrate topics covered in the courses, including:
   - Aggregations and grouping (e.g., revenue summaries by month/year) ➕📅
   - Joins across multiple tables (customers ↔ orders ↔ payments, orders ↔ shipments, etc.) 🔗
